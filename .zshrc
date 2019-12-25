@@ -12,3 +12,4 @@ fi
 
 # Customize to your needs...
 alias dotfiles='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+export GPG_TTY=$(tty)
