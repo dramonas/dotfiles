@@ -4,3 +4,5 @@
 	signingkey = 9C008A552CC5A609
 	name = Ramonas Damian
 	email = damianramonas@gmail.com
+[branch]
+	autosetuprebase = always
