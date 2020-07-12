@@ -14,3 +14,5 @@ fi
 alias dotfiles='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias passwords='git --git-dir=$HOME/.password-store/.git/ --work-tree=$HOME/.password-store'
 export GPG_TTY=$(tty)
+export PATH=$HOME/.local/bin:$PATH
+
