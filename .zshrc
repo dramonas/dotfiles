@@ -14,4 +14,3 @@ fi
 alias dotfiles='git --git-dir="$HOME/.dotfiles" --work-tree="$HOME"'
 export GPG_TTY=$(tty)
 export PATH=$HOME/.local/bin:$PATH
-
